@@ -12,6 +12,7 @@ grpc-gateway
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
 - [protoc-gen-openapi](https://github.com/zchee/protoc-gen-openapi)
 - [how-to-convert-openapi-2-to-openapi-3](https://stackoverflow.com/questions/59749513/how-to-convert-openapi-2-0-to-openapi-3-0)
+- [converter-swagger](https://converter.swagger.io/)
 
 clientファイルの作り方
 1. `openapiv2_out` 使って json ファイル吐き出す
